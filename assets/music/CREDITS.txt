@@ -1,0 +1,10 @@
+NJ26_SM_IG_014 背景音乐来源 / Music sources
+
+来源：通过 Openverse (https://openverse.org) 搜索，文件来自 Freesound。
+授权：全部为 CC0 1.0 公共领域贡献 (https://creativecommons.org/publicdomain/zero/1.0/)。
+CC0 可商用、可剪辑，不需要署名。下面的出处只是留作记录。
+
+文件 / Files:
+- cc0_bgm-b_the-lucky-ticket.mp3  |  已使用 / in use  |  "The Lucky Ticket" by Antenalosmusic  |  https://freesound.org/people/Antenalosmusic/sounds/714932
+- cc0_bgm-d_rabbit-bop.mp3  |  备选 / alternate  |  "Rabbit Bop" by code_box  |  https://freesound.org/people/code_box/sounds/575759
+- cc0_bgm-a_arcade-aroma.mp3  |  备选 / alternate  |  "Arcade Aroma" by Touda  |  https://freesound.org/people/Touda/sounds/614130

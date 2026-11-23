@@ -1,0 +1,21 @@
+NJ26_SM_IG_014 音效来源 / Sound effect sources
+
+来源：通过 Openverse (https://openverse.org) 搜索，文件来自 Freesound。
+授权：全部为 CC0 1.0 公共领域贡献 (https://creativecommons.org/publicdomain/zero/1.0/)。
+CC0 可商用、可剪辑，不需要署名。下面的出处只是留作记录。
+
+文件 / Files:
+- cc0_01-swipe-whoosh.mp3  |  "Swipe Whoosh" by qubodup  |  https://freesound.org/people/qubodup/sounds/60007
+- cc0_02-whoosh.mp3  |  "Whoosh #1" by Kinoton  |  https://freesound.org/people/Kinoton/sounds/427823
+- cc0_03-bubble-pop.mp3  |  "The Best Bubble Pop Sound For Game and UI" by el_boss  |  https://freesound.org/people/el_boss/sounds/669918
+- cc0_04-ui-tick.mp3  |  "Click Tick.wav" by malle99  |  https://freesound.org/people/malle99/sounds/384187
+- cc0_05-mouse-click.mp3  |  "left mouse click" by Gee-Jay  |  https://freesound.org/people/Gee-Jay/sounds/172503
+- cc0_06-approval-chime.mp3  |  "[UI Sound] Approval - High Pitched Bell Synth" by GabFitzgerald  |  https://freesound.org/people/GabFitzgerald/sounds/625174
+- cc0_07-notification.mp3  |  "Notification Sound" by yfjesse  |  https://freesound.org/people/yfjesse/sounds/235911
+- cc0_08-ding.mp3  |  "Ding 1" by greenvwbeetle  |  https://freesound.org/people/greenvwbeetle/sounds/241288
+- cc0_09-crickets-loop.mp3  |  "Crickets chirping loop" by Patrick_Corra  |  https://freesound.org/people/Patrick_Corra/sounds/633196
+- cc0_10-sparkle.mp3  |  "Sparkling Star 01.wav" by MATRIXXX_  |  https://freesound.org/people/MATRIXXX_/sounds/462095
+- cc0_11-puzzle-error.mp3  |  "Puzzle Error" by qubodup  |  https://freesound.org/people/qubodup/sounds/442674
+- cc0_12-error-short.mp3  |  "error" by Leszek_Szary  |  https://freesound.org/people/Leszek_Szary/sounds/171494
+- cc0_13-pop-sound.mp3  |  "Pop Sound" by ConarB13  |  https://freesound.org/people/ConarB13/sounds/401542
+- cc0_14-chime-notification.mp3  |  "Chime Notification" by Jofae  |  https://freesound.org/people/Jofae/sounds/380482
